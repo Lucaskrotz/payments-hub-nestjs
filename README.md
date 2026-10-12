@@ -391,4 +391,4 @@ Erros de banco que não são de unicidade não são capturados: sobem como `500`
 
 ## Licença
 
-Sugestão: **MIT**. Antes de publicar, adicione um arquivo `LICENSE` com o texto da licença escolhida e o nome do autor.
+Este projeto está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](LICENSE).

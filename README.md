@@ -266,7 +266,7 @@ Pré-requisitos: Node.js 24 e Docker com Docker Compose v2.
 A aplicação roda na sua máquina e o PostgreSQL roda no Docker. Assim o hot reload e o debugger funcionam sem configuração extra.
 
 ```bash
-git clone <url-do-repositorio> payments-hub-nestjs
+git clone https://github.com/Lucaskrotz/payments-hub-nestjs.git
 cd payments-hub-nestjs
 cp .env.example .env          # troque POSTGRES_PASSWORD por um valor seu
 npm install
